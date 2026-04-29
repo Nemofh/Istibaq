@@ -1,7 +1,8 @@
 # Istibaq
 
 Istibaq is a smart system that predicts facility failures before they happen by analyzing real-time data, helping reduce downtime and maintenance costs while ensuring smooth operations.
-
+## System Preview
+![Preview](logoistpaq.png)
 ## Features
 - Predictive maintenance
 - Real-time monitoring

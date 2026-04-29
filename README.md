@@ -1,5 +1,5 @@
 <h1>
-  <img src="logoistpaq.png" width="50" style="vertical-align: middle; margin-left: 10px;">
+  <img src="logoistpaq.png" width="50" style="vertical-align: left; margin-left: 10px;">
   Istibaq
 </h1>
 <p>Istibaq is a smart system that predicts facility failures before they happen by analyzing real-time data, helping reduce downtime and maintenance costs while ensuring smooth operations.</p>
